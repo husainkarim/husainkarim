@@ -35,8 +35,11 @@ A seasoned accountant with a hidden talent for taming data beasts, I'm Husain. M
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## <img src="img/image.png" width="18" height="18"/> Codewars Stats
-
-![Codewars](https://github.r2v.ch/codewars?user=husainkarim&top_languages=true)
+<p>
+    <a href="https://www.codewars.com/users/husainkarim">
+      <img src="https://github.r2v.ch/codewars?user=husainkarim&top_languages=true" />
+    </a>
+</p>
 
 ## <img src="img/GitHub.png" width="18" height="18"/> Github Stats
 [![husainkarim's GitHub stats](https://github-readme-stats.vercel.app/api?username=husainkarim&show_icons=true&theme=dark)](https://github.com/husainkarim)
