@@ -1,6 +1,8 @@
 # Hi there, I'm Husain!
 
+<p align="justify">
 A seasoned accountant with a hidden talent for taming data beasts, I'm Husain. My toolbox? Golang, Python, SQL – the languages of logic and magic. My playground? AI and data science, where numbers dance to reveal unseen truths. I'm here on GitHub to open doors, collaborate with minds as sharp as mine, and contribute to projects that push the boundaries of possibility. Let's make some data sing!
+</p>
 
 ## 💻 Technologies & Tools
 
